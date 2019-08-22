@@ -11,8 +11,12 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxtjs/apollo": "^4.0.0-rc11",
     "chart.js": "^2.8.0",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.0.0",
+    "vue": "^2.6.6",
+    "vue-server-renderer": "^2.6.6",
+    "vue-template-compiler": "^2.6.6"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.0.0"
